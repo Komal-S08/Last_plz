@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.log
+*.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.myenv/
+
+# OS files
+*.swp
+Thumbs.db
+.DS_Store
+
+# Export files
+*.csv
+*.pdf
+
+# VS Code
+.vscode/
